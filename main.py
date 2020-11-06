@@ -8,7 +8,6 @@ from functools import wraps
 from halo import Halo
 from pyppeteer import launch
 from rich import print
-from rich.text import Text
 from rich.console import Console
 console = Console()
 
