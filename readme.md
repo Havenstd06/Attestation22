@@ -1,4 +1,4 @@
-# Attestation22: Générateur d'attestation de sortie
+# Attestation22
 Attestation22 génère des Attestation de déplacement dérogatoire rapidement à l'aide de fichier configuration.
 
 <img src="https://limg.app/i/9Uv6ro.gif" alt="Demo" width="400" style="text-align: center">
@@ -14,7 +14,7 @@ Attestation22 génère des Attestation de déplacement dérogatoire rapidement �
 ### Définitions
 
 #### Format
-Format date de naissance :  JJ/MM/AAAA (J = Jour | M = Mois | A = Année)
+Format date de naissance :  **JJ**/**MM**/**AAAA** (J = Jour | M = Mois | A = Année)
 
 #### Liste de motif :
 
