@@ -1,20 +1,25 @@
 # Attestation22
 Attestation22 génère des Attestation de déplacement dérogatoire rapidement à l'aide de fichier configuration.
 
-<img src="https://limg.app/i/9Uv6ro.gif" alt="Demo" width="400" style="text-align: center">
+<img src="https://limg.app/i/9Uv6ro.gif" alt="Demo">
 
 
 ### Comment utiliser Attestation22
-* Télécharger le fichier [exe](https://github.com/havenstd06/Attestation22/releases) (windows) ou le .py 
-* Ouvrir **"Attestation22.exe"** (ou le **.py**) dans un dossier
-* Entre un nom pour le fichier configuration (note: ce fichier est réutilisable)
+* Télécharger le fichier [exe](https://github.com/havenstd06/Attestation22/releases) (windows)
+* Ouvrir **"Attestation22.exe"** dans un dossier
+* Entre un nom pour le fichier configuration (note: le fichier généré est réutilisable)
 * Suivre les instructions
 * Votre attestation sera placé dans le dossier **"Attestations"**
+
+
+### Développement
+* cloner le repo: ``git clone https://github.com/Havenstd06/Attestation22``
+* ``pip install -r requirements.txt``
 
 ### Définitions
 
 #### Format
-Format date de naissance :  **JJ**/**MM**/**AAAA** (J = Jour | M = Mois | A = Année)
+Date de naissance :  **JJ**/**MM**/**AAAA** (J = Jour | M = Mois | A = Année)
 
 #### Liste de motif :
 
