@@ -1,0 +1,6 @@
+halo==0.0.30
+pip-chill==1.0.0
+pyinstaller==4.0
+pyppeteer==0.2.2
+pywin32==228
+rich==9.1.0
